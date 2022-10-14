@@ -12,7 +12,7 @@ Curso este que tive a honra de participar com a plataforma de cursos online <str
 
 - [x] Uso de listas e vetores
 - [x] Leitura de dados de arquivos com BufferedReader e FileReader;
-- [x] Criação de casses;
+- [x] Criação de classes;
 - [x] Uso de laços de repetições, while e for;
 - [x] Lógica da programação
 - [x] Tratamento de exceções com TRY e CATCH
