@@ -17,6 +17,6 @@ Curso este que tive a honra de participar com a plataforma de cursos online <str
 - [x] Lógica da programação
 - [x] Tratamento de exceções com TRY e CATCH
 
-------------
+-------------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
